@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PeaceAndy-2024
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on this platform 
+- 👋 Hi, I’m Peace Sunday .
+- 👀 I’m a Nurse and a web developer. 
+- 🌱 I am familiar with Visual Studio code and it's extensions.
+- 💞️ I’m looking to collaborate on programming.
 - 📫 How to reach me; peacefulisuny@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: Tech is life
